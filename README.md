@@ -1,4 +1,6 @@
-A toy example code for SLIP dynamics based Control.
+# A toy example code for SLIP dynamics based Control.
+
+## How to use
 
 pip install mujoco
 
